@@ -4,6 +4,15 @@ td {
     height: 100px;
 }
 
+td.n {
+    border: blue 1px solid;
+    background-color: rgb(206, 206, 206);
+    width: 300px;
+    height: 100px;
+}
+
+
+
 div.a {
     border: blue 1px solid;
     width: 300px;
